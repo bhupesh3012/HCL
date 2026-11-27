@@ -1,0 +1,3 @@
+select employee_name,department , salary
+from Employees
+where department = 'IT' or department = 'Finance';
