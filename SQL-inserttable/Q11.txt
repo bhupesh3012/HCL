@@ -1,0 +1,1 @@
+ insert into Courses values (101,'Python programming',6,25000.00),(102,'Data Science',8,35000.00),(103,'Machine Learning',10,45000.00);

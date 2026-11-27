@@ -1,0 +1,1 @@
+insert into Patients values (201,'Arun kumar',35),(202,'Priya Sharma',29),(203,'Karthik Raj',42);
