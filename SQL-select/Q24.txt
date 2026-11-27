@@ -1,0 +1,3 @@
+select employee_name,department,experience,salary
+from Employees
+where department in('IT','Data Science','Engineering') and experience between 3 and 8 and employee_name like '%a%';

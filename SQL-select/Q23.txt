@@ -1,0 +1,3 @@
+select customer_id,customer_name,city
+from Customers
+where city in('Chennai','Coimbatore') and customer_name like '%a';
