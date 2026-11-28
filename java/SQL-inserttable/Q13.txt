@@ -1,1 +1,0 @@
-insert into Employees values (301,'Meena Krishna','HR',42000.00),(302,'Rahul Kumar','IT',51000.00),(303,'Divya Raj','Finance',58000.00);
